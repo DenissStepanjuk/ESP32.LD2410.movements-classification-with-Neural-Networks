@@ -1,6 +1,5 @@
 # ESP32 + LD2410: Movements Classification with Neural Networks
 <img width="1470" height="736" alt="LD2410_logo_1" src="https://github.com/user-attachments/assets/c0e61f25-8609-40fd-b6f3-d97cfcaf1ba8" />
-![movements](https://github.com/user-attachments/assets/ce286ec1-3da0-4899-a677-3d5fb78cdca1)
 
 1) TensorFlow Linear model for classification of movements
 2) TensorFlow CNN for classification of movements
