@@ -21,6 +21,8 @@ esp32 by Espressif Systems: https://github.com/espressif/arduino-esp32
 
 ## LIBRARY MANAGER:
 
+MyLD2410: https://github.com/iavorvel/MyLD2410
+
 ArduinoBLE by Arduino: https://docs.arduino.cc/libraries/arduinoble/
 
 ESP Async WebServer by Me-No-Dev: https://github.com/mathieucarbou/ESPAsyncWebServer
